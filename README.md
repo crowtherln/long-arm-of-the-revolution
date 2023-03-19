@@ -27,7 +27,7 @@ This repository hosts 4 tables that present a simplified version of the data in 
 * Events.csv includes time and location data for 86 attempted killings.
 * Targets_Casualties.csv includes details for 232–282 people who were targeted, wounded, or killed in the 86 attempts.
 * Sources.csv lists 259 sources that we used to compile the data.
-* Event_Sources.csv indicates which sources document which events and indicates the quality of the sources for that event.
+* Event_Sources.csv indicates which sources document which events and indicates the quality of the sources for that event. It includes 797 event–source pairs.
 
 Otherwise, I am using this repository primarily as a directory to content hosted elsewhere, rather than as a typical repository.
 
