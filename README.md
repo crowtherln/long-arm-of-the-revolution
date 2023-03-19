@@ -29,7 +29,7 @@ This repository hosts 4 tables that present a simplified version of the data in 
 * [Sources.csv](https://github.com/crowtherln/long-arm-of-the-revolution/blob/main/dataset/Sources.csv) lists 259 sources that we used to compile the data.
 * [Event_Sources.csv](https://github.com/crowtherln/long-arm-of-the-revolution/blob/main/dataset/Event_Sources.csv) indicates which sources document which events and indicates the quality of the sources for that event. It includes 797 event–source pairs.
 
-It also includes an [entity–relationship diagram](https://github.com/crowtherln/long-arm-of-the-revolution/blob/main/schema/long-arm-of-the-revolution_er-diagram.png) and a [relational schema](https://github.com/crowtherln/long-arm-of-the-revolution/blob/main/schema/long-arm-of-the-revolution_relational-schema.png) to show the relationships between the tables.
+It also includes an [entity–relationship diagram](https://github.com/crowtherln/long-arm-of-the-revolution/blob/main/schema/long-arm-of-the-revolution_er-diagram.png) and a [relational schema](https://github.com/crowtherln/long-arm-of-the-revolution/blob/main/schema/long-arm-of-the-revolution_relational-schema.png) to show the relationships between the tables. These were produced in [ERDPlus](https://erdplus.com/).
 
 Otherwise, I am using this repository primarily as a directory to content hosted elsewhere, rather than as a typical repository.
 
