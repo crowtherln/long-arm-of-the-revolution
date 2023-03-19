@@ -39,7 +39,7 @@ Otherwise, I am using this repository primarily as a directory to content hosted
   * [This visualization](https://public.tableau.com/views/LongArmoftheRevolutionDeathTollbyCountry/DeathToll?:language=en-US&:display_count=n&:origin=viz_share_link) looks at the death toll by country.
   * [This visualization](https://public.tableau.com/views/LongArmoftheRevolutionDeathTollbyCountryandYear/DeathTollbyYear?:language=en-US&:display_count=n&:origin=viz_share_link) does the same, but parses the numbers by year.
 
-## Methodology and Limitations
+## Project Methodology and Limitations
 
 In the early stages of this project, we relied heavily on such sources as Pahlavi (n.d.) and the Foundation for Democracy in Iran (1996). Rather than focus on one specific event, such sources allege and seek to document a pattern of Iran-sponsored attempted killings outside Iran since the Islamic Revolution. We came to refer to such sources as *chronologies*. Many chronologies consider scores, sometimes hundreds, of events taking place across several continents over the course of over fifteen years. Naturally, given the interest required to attempt a compilation of such breadth, most of the chronologies we looked at involved potential conflicts of interest. Consequently, we took their allegations as a skeleton from which to begin, but then sought to corroborate or correct their claims with more reliable sources.
 
