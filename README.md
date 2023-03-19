@@ -33,11 +33,11 @@ Otherwise, I am using this repository primarily as a directory to content hosted
 
 * The above tables are also hosted on [Kaggle](https://www.kaggle.com/datasets/crowtherln/long-arm-of-the-revolution), with some added field descriptions.
 * Tableau Public hosts several visualizations of the data:
-..* [This visualization](https://public.tableau.com/views/LongArmoftheRevolutionMinimumDeathTollandDocumentationRating/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link) provides details about each event, focusing on death tolls and documentation quality.
-..* [This visualization](https://public.tableau.com/views/LongArmoftheRevolutionTotalEventsbyCountry/Events?:language=en-US&:display_count=n&:origin=viz_share_link) looks at the number of events by country.
-..* [This visualization](https://public.tableau.com/views/LongArmoftheRevolutionTotalEventsbyCountryandYear/EventsbyYear?:language=en-US&:display_count=n&:origin=viz_share_link) does the same, but parses the numbers by year.
-..* [This visualization](https://public.tableau.com/views/LongArmoftheRevolutionDeathTollbyCountry/DeathToll?:language=en-US&:display_count=n&:origin=viz_share_link) looks at the death toll by country.
-..* [This visualization](https://public.tableau.com/views/LongArmoftheRevolutionDeathTollbyCountryandYear/DeathTollbyYear?:language=en-US&:display_count=n&:origin=viz_share_link) does the same, but parses the numbers by year.
+  * [This visualization](https://public.tableau.com/views/LongArmoftheRevolutionMinimumDeathTollandDocumentationRating/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link) provides details about each event, focusing on death tolls and documentation quality.
+  * [This visualization](https://public.tableau.com/views/LongArmoftheRevolutionTotalEventsbyCountry/Events?:language=en-US&:display_count=n&:origin=viz_share_link) looks at the number of events by country.
+  * [This visualization](https://public.tableau.com/views/LongArmoftheRevolutionTotalEventsbyCountryandYear/EventsbyYear?:language=en-US&:display_count=n&:origin=viz_share_link) does the same, but parses the numbers by year.
+  * [This visualization](https://public.tableau.com/views/LongArmoftheRevolutionDeathTollbyCountry/DeathToll?:language=en-US&:display_count=n&:origin=viz_share_link) looks at the death toll by country.
+  * [This visualization](https://public.tableau.com/views/LongArmoftheRevolutionDeathTollbyCountryandYear/DeathTollbyYear?:language=en-US&:display_count=n&:origin=viz_share_link) does the same, but parses the numbers by year.
 
 ## Methodology and Limitations
 
