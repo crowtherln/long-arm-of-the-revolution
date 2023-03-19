@@ -1,0 +1,138 @@
+﻿event_id,name,min_number,max_number,description,outcome
+1.1979-01,Shahriar Mustapha Shafigh,1,1,"Shahriar Mustapha Shafigh, 34, was the son of Shah Mohammad Reza Pahlavi’s twin sister, Princess Ashraf. He had been an officer in Iran’s navy and had begun “to plan an amphibious invasion of Iran” (Gasiorowski, 2002, p. 649).",killed
+1.1980-01,Shapour Bakhtiar,1,1,"Dr. Shapour Bakhtiar had been a longtime opponent of the shah. However, hoping to stave off Khomeini’s revolutionary forces, the shah appointed Bakhtiar to be Iran’s prime minister. Bakhtiar’s term lasted only 39 days before Khomeini’s forces gained control of the country. Bakhtiar was an outspoken critic of the Khomeini regime. He was a key figure in planning and financing the Nuzhih coup plot (see Gasiorowski, 2002).",unharmed
+1.1980-01,Yvonne Stein,1,1,"Yvonne Stein, 45, a neighbor of Shapour Bakhtiar who had opened her door to investigate the commotion",killed
+1.1980-01,Jean-Michel Jamme,1,1,"Jean-Michel Jamme, 23, a French police officer",killed
+1.1980-01,Bernard Vigna,1,1,"Bernard Vigna, a police officer",wounded
+1.1980-01,Georges Marty,1,1,"Georges Marty, 23, a police officer",wounded
+1.1980-01,Viviane,1,1,"Viviane, 37, a sister of Yvonne Stein",wounded
+1.1980-01,unknown_001,1,1,possibly a police officer,wounded
+1.1980-01,unknown_002,1,2,1 or 2 of the assailants,wounded
+1.1980-02,Ali Akbar Tabatabai,1,1,"Ali Akbar Tabatabai, 49, had been a press attaché at the Iranian Embassy in Washington before the Islamic Revolution. He was an outspoken critic of the Khomeini regime and president of the Iran Freedom Foundation. With his organization, he had scheduled a protest against the Khomeini regime for the Sunday after his murder. Tabatabai had expressed fears for his life and consequently had instructed neighbors not to receive mail on his behalf. Tabatabai had been scheduled to appear on a radio program but had asked whether he could do the interview by phone, as he feared to leave his home. He was killed several hours before the interview was to take place.",killed
+1.1980-02,Shawn Tabatabai,1,1,"Shawn Tabatabai, 30, nephew of Ali Akbar Tabatabai",wounded
+1.1980-03,Cambyse Shah-Rais,1,1,"Cambyse Shah-Rais, an Iranian dissident, believed himself to have been the intended target.",unharmed
+1.1980-03,unknown_003,1,1,"a male Iranian student, 19",wounded
+1.1982-01,Shahrokh Missaghi,1,1,"Shahrokh Missaghi, “25, an engineering student and reportedly a member of the Mujaheddin-e-Khalq, an Islamic guerrilla group that supported the Iranian revolution but later turned against Khomeini” (Branigin, 1984)",killed
+1.1982-01,unknown_004,19,19,"""19 anti-Khomeini Iranians"" (Branigin, 1984)",wounded
+1.1982-02,Shahram Mirani,1,1,"Shahram Mirani, “a Kurdish Iranian student and a member of the student opposition” (Rabbani, 2010)",unclear
+1.1982-03,Ahmad Zolanvar,1,1,"Ahmad Zolanvar, a Mojahedin supporter, perhaps along with other Mojahedin supporters",killed
+1.1982-04,Abdol-Amir Rahdar,1,1,"Abdol-Amir Rahdar, an opposition member",killed
+1.1983-01,Esfandiar Rahimi,1,1,Esfandiar Rahimi,killed
+1.1983-02,Alirez Ghaemi Sistan,1,1,"“Alireza Ghaemi Sistan, 31, a graduate dental student”",wounded
+1.1984-01,Gholam-Ali Oveissi,1,1,"Gholam Ali Oveissi, 65, had been a four-star general and the military governor of Tehran under the shah. He had become known as the “butcher of Tehran” for violently repressing demonstrations. After the Islamic Revolution, Oveissi made use of Iraqi support to plot coups against the Khomeini regime. However, he apparently broke ties with Iraq after suspecting that Iraq wanted to use him to facilitate its own invasion of Iran.",killed
+1.1984-01,Gholam Hossein Oveissi,1,1,"Gholam Hossein Oveissi, in his 60s, had been an army colonel. He was Gholam Ali Oveissi’s brother.",killed
+1.1984-01,Rahmat Madjlessi,1,1,"Rahmat Madjlessi, chauffeur of Gholam Ali Oveissi and Gholam Hossein Oveissi",wounded
+1.1985-01,Behrouz Shahverdilou,1,1,Colonel Behrouz Shahverdilou was an army officer under the shah and close to Bakhtiar.,killed
+1.1985-02,Hadi Aziz-Moradi,1,1,"Hadi Aziz-Moradi, a former army officer who had been involved in the Nuzhih plot",killed
+1.1986-01,Bijan Fazeli,1,1,"Bijan Fazeli, 22, was the son of Reza Fazeli.",killed
+1.1986-01,Reza Fazeli,1,1,"Reza Fazeli, actor, comedian, and critic of the Khomeini regime",unharmed
+1.1986-02,Ahmad Hamed Monfared,1,1,Ahmad Hamed Monfared had been an officer in the Iranian army. He was also known as Hamid Farzaneh.,killed
+1.1986-03,Vali Mohammad Van,1,1,"Vali Mohammad Van, a former Marine officer",killed
+1.1987-01,Ali Akbar Mohammadi,1,1,"Ali Akbar Mohammadi, 35, had been Rafsanjani’s pilot but had deserted.",killed
+1.1987-02,Hamid Reza Chitgar,1,1,"Hamid Reza Chitgar, 38, was a Marxist opposed to Khomeini’s government. He was also known as Hamid Bahmani.",killed
+1.1987-03,Ali Reza Pourshafizadeh,1,1,"Ali Reza Pourshafizadeh, a member or affiliate of the People's Mojahedin Organization of Iran (PMOI)",killed
+1.1987-03,Faramarz-Agha,1,1,"Faramarz-Agha, a member or affiliate of the People's Mojahedin Organization of Iran (PMOI)",killed
+1.1987-03,unknown_005,1,1,an assailant,killed
+1.1987-03,unknown_006,19,22,members or affiliates of the People's Mojahedin Organization of Iran (PMOI),wounded
+1.1987-04,Amirhussein Amir-Parviz,1,1,"Amirhussein Amir-Parviz, 63, had been in the shah’s cabinet, including as minister of agriculture. After the revolution, he became chair of the London office of the National Movement for Iranian Resistance.",wounded
+1.1987-05,Mohammad Hassan Mansouri,1,1,"Mohammad Hassan Mansouri, a dissident who had been a colonel in prerevolutionary Iran",killed
+1.1987-05,unknown_007,0,1,someone who was possibly with Mohammad Hassan Mansouri,unclear
+1.1987-06,Ahmad Moradi-Talebi,1,1,"Ahmad Moradi-Talebi, a pilot who had deserted from the Iranian Air Force",killed
+1.1987-07,Mohammad Ali Tavakoli-Nabavi,1,1,"Mohammad Ali Tavakoli-Nabavi, 58, had founded a small group of dissidents—whose members numbered no more than a dozen and consisted mostly of Mohammed Ali’s family members—and had spoken against Khomeini regularly in Hyde Park.",killed
+1.1987-07,Noureddin Tavakoli-Nabavi,1,1,"Noureddin Tavakoli-Nabavi, 24, son of Mohammad Ali Tavakoli-Nabavi",killed
+1.1987-08,Behrouz Bagheri,1,1,Behrouz Bagheri had been a commander in the Air Force.,killed
+1.1987-09,unknown_008,1,1,someone at a hotel where Iranian opposition members were staying,killed
+1.1987-09,unknown_009,1,1,someone at a hotel where Iranian opposition members were staying,wounded
+1.1987-10,Javad Haeri,1,1,"Javad Haeri, a dissident",killed
+1.1988-01,Abdol Hassan Mojtahedzadeh,1,1,"Abdol Hassan Mojtahedzadeh, also known as Sadiq el Hassani, of the People's Mojahedin of Iran (PMOI)",wounded
+1.1988-01,Mostafa Abriri,1,1,Mostafa Abriri of the People's Mojahedin of Iran (PMOI),wounded
+1.1988-02,unknown_010,1,1,"an Iranian refugee, possibly with Balouch as a name or ethnically Balouch",killed
+1.1988-02,unknown_011,5,5,"5 Iranian refugees, at least one of whom may have had ""Balouch"" as a name or was ethnically Balouch",wounded
+1.1989-01,Ataellah Bayahmadi,1,1,"Ataellah Bayahmadi had worked for Iranian military intelligence. He had taken part in coup plots and, per Gasiorowski (2002), had “tried to undertake armed operations against the Iranian government in revenge for the execution of his sister, but [with] little success” (p. 658). He had come to Dubai on a mission for the Flag of Freedom Organization, to meet with dissident Iranian military officers.",killed
+1.1989-02,Abdolrahman Ghassemlou,1,1,"Abdolrahman Ghassemlou, 59, the leader of the Democratic Party of Iranian Kurdistan (PDKI), who may have been negotiating to return home",killed
+1.1989-02,Abdollah Ghaderi-Azar,1,1,"Abdollah Ghaderi-Azar, a Kurdish diplomat",killed
+1.1989-02,Mohammed Djafari Saharodi,1,1,"Mohammed Djafari Saharodi, an Iranian diplomat",wounded
+1.1989-02,Fadel Mala Mahmoud Rasoul,1,1,"Fadel Mala Mahmoud Rasoul, 38, an Iraqi Kurd who had come to the meeting as a mediator",killed
+1.1989-03,Bahman Javadi,1,1,"Bahman Javadi, 33, also known as Gholam Keshavarz, a Communist opponent of the Islamic Republic",killed
+1.1989-03,Yussef Rashidzadeh,1,1,a companion of Bahman Javadi,wounded
+1.1989-04,Sadigh Kamangar,1,1,"Sadigh Kamangar, an Iranian Kurd and member of Komelah",killed
+1.1989-05,Hossein Keshavarz,1,1,"Hossein Keshavarz, a sympathizer of the People's Mojahedin of Iran (PMOI)",unclear
+1.1990-01,Haj Balouch Khan,1,1,"Haj Balouch Khan, a dissident",killed
+1.1990-02,Hossein Mir-Abedini,1,1,"Hossein Mir-Abedini, a senior leader in the People's Mojahedin of Iran (PMOI)",wounded
+1.1990-02,Mohammad Mohaddesin,1,1,Mohammad Mohaddesin of the People's Mojahedin of Iran (PMOI),unharmed
+1.1990-02,unknown_012,1,1,an Iranian,unharmed
+1.1990-03,Kazem Rajavi,1,1,"Dr. Kazem Rajavi, 56, had been “the Khomeini regime’s first ambassador to the European headquarters of the UN,” but he “quit after serving for one year” (Curtiss, 1990). His brother was Massoud Rajavi, leader of the People's Mohahedin of Iran (PMOI). Kazem had debunked a report that had claimed that “Iran’s leaders had ceased torturing and publicly executing political prisoners in Tehran’s notorious Evin prison” (Curtiss, 1990). Dr. Rajavi had requested police protection in 1987.",killed
+1.1990-04,Ali Kashefpour,1,1,"Ali Kashefpour, a leader in the Democratic Party of Iranian Kurdistan (PDKI)",killed
+1.1990-05,Effat Ghazi,1,1,"Effat Ghazi, daughter of the Qazi Muhammad, founder of the Democratic Party of Iranian Kurdistan (PDKI)",killed
+1.1990-05,Amir,1,1,"Amir, an activist and the husband of Effat Ghazi",unharmed
+1.1990-06,Gholamreza Nakhai,1,1,"Gholamreza Nakhai, a political refugee",unclear
+1.1990-07,Cyrus Elahi,1,1,"Cyrus Elahi, 46, was a leader in the Flag of Freedom Organization. He had been a political science professor at Tehran University.",killed
+1.1991-01,Abdolrahman Boroumand,1,1,"Abdolrahman Boroumand, politician, entrepreneur, and a colleague of Shapour Bakhtiar in the National Movement of Iranian Resistance (NAMIR)",killed
+1.1991-02,Safiollah Soleimanpour,1,1,"Safiollah Soleimanpour, a refugee",killed
+1.1991-02,unknown_013,1,1,brother of Safiollah Soleimanpour,killed
+1.1991-03,Ahad Agha,1,1,Ahad Agha of the Democratic Party of Iranian Kurdistan (PDKI),killed
+1.1991-04,Shapour Bakhtiar,1,1,"Dr. Shapour Bakhtiar, 76, was a longtime opponent of the shah. However, hoping to stave off Khomeini’s revolutionary forces, the shah appointed Bakhtiar to be Iran’s prime minister. Bakhtiar’s term last only 39 days before Khomeini’s forces gained control of the country. Bakhtiar was an outspoken critic of the Khomeini regime. He was also the target of a previous assassination attempt (see 1.1980-01).",killed
+1.1991-04,Soroush Katibeh,1,1,"Soroush Katibeh, secretary of Shapour Bakhtiar",killed
+1.1991-05,Jawad Mehrani,1,1,"Jawad Mehrani, an arms dealer for the Iranian government",killed
+1.1991-06,Saeed Yazdanpanah,1,1,Saeed Yazdanpanah of the Revolutionary Union of Kurdish people,killed
+1.1992-01,Kamran Hedayati,1,1,Kamran Hedayati,wounded
+1.1992-02,Shapour Firouzi,1,1,"Shapour Firouzi, a leader or member of the Democratic Party of Iranian Kurdistan (PDKI)",killed
+1.1992-03,Ali Akbar Ghorbani,1,1,"Ali Akbar Ghorbani, also known as Mansour Amini, of the People's Mojahedin of Iran (PMOI)",killed
+1.1992-04,unknown_014,2,2,two People's Mojahedin of Iran (PMOI) activists,unharmed
+1.1992-05,Kamran Mansour Moghadam,1,1,"Kamran Mansour Moghadam, Communist and member of the Democratic Party of Iranian Kurdistan (PDKI)",killed
+1.1992-06,Fereydoun Farrokhzad,1,1,"Fereydoun Farrokhzad, 48, a singer, entertainer, and dissident",killed
+1.1992-07,Homayoun Moghaddam,1,1,Homayoun Moghaddam of the Iran Nation’s Party,unclear
+1.1992-08,Sadegh Sharafkandi,1,1,"Dr. Sadegh Sharafkandi, 54, Secretary-General of the Democratic Party of Iranian Kurdistan (PDKI) and successor to Abdolrahman Ghassemlou (see 1.1989-02)",killed
+1.1992-08,Fattah Abdoli,1,1,"Fattah Abdoli, the Democratic Party of Iranian Kurdistan (PDKI) representative for Europe",killed
+1.1992-08,Homayoun Ardalan,1,1,"Homayoun Ardalan, the Democratic Party of Iranian Kurdistan (PDKI) representative for Germany",killed
+1.1992-08,Nouri Dehkordi,1,1,"Nouri Dehkordi, a translator and friend of Sadegh Sharafkandi",killed
+1.1992-08,Aziz Ghaffari,1,1,Aziz Ghaffari owned the restaurant in which the attack occurred.,wounded
+1.1992-08,Masoud Mirrashed,1,1,Masoud Mirrashed,unharmed
+1.1992-08,Mehdi Ebrahimzadeh Esfahani,1,1,Mehdi Ebrahimzadeh Esfahani,unharmed
+1.1992-08,Parviz Dastmalchi,1,1,Parviz Dastmalchi,unharmed
+1.1992-08,Esfandiar Sadeghzadeh,1,1,Esfandiar Sadeghzadeh,unharmed
+1.1992-09,Abbas Gholizadeh,1,1,"Abbas Gholizadeh had been an officer in Iran’s army and a member of “the Organization for the Defense of Fundamental Freedoms in Iran (formerly Flag of Freedom)” (Human Rights Watch, 1994).",unclear
+1.1993-01,Mehdi Haeri,1,1,"Ayatollah Mehdi Haeri (Persian: ﺣﺎﺋﺮی ﻣﮭﺪی), a dissident cleric",unharmed
+1.1993-02,Heybatollah Narou’i,1,1,"Heybatollah Narou’i, a Narou’i chief",killed
+1.1993-02,Delaviz Narou’i,1,1,"Delaviz Narou’i, a Narou’i chief",killed
+1.1993-03,Mohammed Hussein Naghdi,1,1,"Mohammed Hussein Naghdi, 42, was the Rome representative of the National Council of Resistance of Iran (NCRI). While he had been living under police protection at home and at work, he was killed while en route between home and work.",killed
+1.1993-04,Mohammad Hassan Arbab,1,1,"Mohammad Hassan Arbab, also known as Mohammad Khan Balouch, of the People's Mojahedin of Iran (PMOI)",killed
+1.1993-05,Mohammad Ghaderi,1,1,Mohammad Ghaderi of the Democratic Party of Iranian Kurdistan (PDKI),killed
+1.1993-06,Mehran Bahram Azadfar,1,1,Mehran Bahram Azadfar of the Democratic Party of Iranian Kurdistan (PDKI),killed
+1.1993-07,Sadiq Rashidi,1,1,Sadiq Rashidi of the Democratic Party of Iranian Kurdistan (PDKI),killed
+1.1993-07,unknown_015,6,7,6 or 7 other Iranian Kurds,killed
+1.1994-01,Taha Kermanj,1,1,"Taha Kermanj, a leader of the Democratic Party of Iranian Kurdistan (PDKI)",killed
+1.1994-02,Mohammad Bokani,1,1,"Mohammad Ghaderi, also known as Khala Hama, of the Democratic Party of Iranian Kurdistan (PDKI) or of Komelah",killed
+1.1994-03,Abubakr Hedayati,1,1,"Abubakr Hedayati, a committee member of the Democratic Party of Iranian Kurdistan (PDKI)",wounded
+1.1994-04,Nasser Hadji Rashidi,1,1,"Nasser Hadji Rashidi, an Iranian Kurd",wounded
+1.1994-04,Mahtab Hadji Rashidi,1,1,"Mahtab Hadji Rashidi, sister of Nasser Hadji Rashidi",wounded
+1.1994-05,unknown_016,2,2,two members of the People's Mojahedin of Iran (PMOI),killed
+1.1994-06,Osman Muhammed Amini,1,1,"Mullah Osman Muhammed Amini, Iranian Kurd, dissident, and refugee",killed
+1.1994-07,Ghafour Hamzei'i,1,1,"Ghafour Hamzei'I, a senior member of the Democratic Party of Iranian Kurdistan (PDKI)",killed
+1.1994-08,Mohammad Ali Assadi,1,1,"Mohammad Ali Assadi, a dissident",killed
+1.1995-01,Suleiman Chikerda,1,1,"Suleiman Chikerda, an Iranian Kurd",killed
+1.1995-02,unknown_017,2,2,senior officials of the People's Mojahedin of Iran (PMOI),killed
+1.1995-02,unknown_018,1,1,a senior official of the People's Mojahedin of Iran (PMOI),wounded
+1.1995-03,unknown_019,2,2,"two members of Komelah, an Iranian Kurdish group",killed
+1.1995-04,Hussein Adidi,1,1,"Hussein Adidi, an official of the People's Mojahedin of Iran (PMOI)",killed
+1.1995-04,Ibrahim Salimi,1,1,"Ibrahim Salimi, an official of the People's Mojahedin of Iran (PMOI)",killed
+1.1995-04,Yarali Karatbar,1,1,"Yarali Karatbar, an official of the People's Mojahedin of Iran (PMOI)",killed
+1.1995-05,Hashem Abdollahi,1,1,"Hashem Abdollahi was a member of the National Movement of Iranian Resistance (NAMIR) and the son of Davoud Abdollahi, who had been a key witness in the trial for 1.1991-04.",killed
+1.1996-01,Rahman Shabani,1,1,"Rahman Shabani, a Kurdish refugee",killed
+1.1996-01,Ali Abdullah,1,1,"Ali Abdullah, a Kurdish refugee",killed
+1.1996-02,Zahra Rajabi,1,1,"Zahra Rajabi, 39, also known as Mariam Jaydan Jowkar, was a member of the National Council of Resistance of Iran (NCRI), an organization affiliated with the People's Mojahedin of Iran (PMOI). She was in Turkey to aid Iranian refugees. She was also known as Mariam Jaydan Jowkar.",killed
+1.1996-02,Abdol-Ali Moradi,1,1,"Abdol-Ali Moradi, a colleague of Zahra Rajabi who sympathized with the People's Mojahedin of Iran (PMOI)",killed
+1.1996-03,Molavi Abdul-Malek Mollahzadeh,1,1,"Molavi Abdul-Malek Mollahzadeh, 45, a dissident and the son of Iran’s most prominent Sunni cleric",killed
+1.1996-03,Abdol-Nasser Jamshid-Zahi,1,1,"Abdol-Nasser Jamshid-Zahi, an associate of Molavi Abdul-Malek Mollahzadeh",killed
+1.1996-03,unknown_020,1,1,a Pakistani woman who was passing by,wounded
+1.1996-04,Hamed Rahmani,1,1,Hamed Rahmani of the People's Mojahedin of Iran (PMOI),killed
+1.1996-05,Reza Mazlouman,1,1,"Reza Mazlouman, also known as Kouroush Aryamanesh, 60, had been Iran's deputy education minister before the Islamic Revolution and was an outspoken critic of the Islamic Republic.",killed
+1.1996-06,Faraj Sarkohi,1,1,"Faraj Sarkohi, a “prominent Iranian writer and editor”",unclear
+1.1999-01,unknown_021,1,1,"""a 36-year-old woman who was a candidate for MKO [People's Mojahedin of Iran] leadership council membership"" (""Baghdad,"" 1999)",killed
+1.1999-01,unknown_022,3,6,three to six other members of the People's Mojahedin of Iran (PMOI),killed
+1.1999-01,unknown_023,23,37,"a group of 23–37, including 15 Iraqis",wounded
+1.2001-01,unknown_024,1,1,a member of the People's Mojahedin of Iran (PMOI),killed
+1.2001-01,unknown_025,24,50,"""dozens"" of members of the People's Mojahedin of Iran (PMOI)",wounded
+1.2005-01,Kasra Vafadari,1,1,"Kasra Vafadari, a university professor and Zoroastrian",killed
+1.2010-01,Sardasht Hama Saleh,1,1,"Sardasht Hama Saleh, the editor-in-chief of a magazine that had published excerpts from Barmak Behdad’s translation of Salman Rushdie’s The Satanic Verses",wounded
+1.2012-01,Gelareh Bagherzadeh,1,1,"Gelareh Bagherzadeh, 30, studied molecular genetics at the University of Texas. She had spoken out against Iran after Iran’s 2009 presidential election.",killed
